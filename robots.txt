@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wvouo.github.io/xda/sitemap.xda.gz
